@@ -10,7 +10,7 @@
 
 8.1. [Подходы и методологии проектирования корпоративных сетей](https://github.com/netology-code/crpnt-homeworks/blob/main/8-01.md)
 
-8.2. [Построение сетей Дата-центра.](https://github.com/netology-code/crpnt-homeworks/blob/main/8-02.md)
+8.2. [Построение сетей дата-центра.](https://github.com/netology-code/crpnt-homeworks/blob/main/8-02.md)
 
 8.3. [Основные средства защиты от сетевых атак на коммутаторах]()
 
