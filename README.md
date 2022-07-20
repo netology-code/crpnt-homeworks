@@ -12,7 +12,7 @@
 
 8.2. [Построение сетей дата-центра.](https://github.com/netology-code/crpnt-homeworks/blob/main/8-02.md)
 
-8.3. [Проектирование WAN сегмента. ]()
+8.3. [Проектирование WAN сегмента. ](https://github.com/netology-code/crpnt-homeworks/blob/main/8-03.md)
 
 8.4. [Программно-определяемые сети. Виртуализация сетевых функций.]()
 
