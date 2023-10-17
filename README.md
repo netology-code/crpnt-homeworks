@@ -14,7 +14,7 @@
 
 8.3. [Проектирование WAN сегмента. ](https://github.com/netology-code/crpnt-homeworks/blob/main/8-03.md)
 
-8.4. [Программно-определяемые сети. Виртуализация сетевых функций.](https://github.com/netology-code/crpnt-homeworks/blob/main/8-04.md)
+8.4. [Виртуализация сетевых функций.](https://github.com/netology-code/crpnt-homeworks/blob/main/8-04.md)
 
 8.5. [Внедрение сервисов информационной безопасности в различных сегментах сети.](https://github.com/netology-code/crpnt-homeworks/blob/main/8-05.md)
 
